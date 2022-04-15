@@ -35,7 +35,7 @@
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": "SHADOW_MUSIC0"
+            "value": "Lucifer_Helpers"
         },
         "SESSION_NAME": {
             "description": "قم بوضع كود تيرمكس هنا",
