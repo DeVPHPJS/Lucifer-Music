@@ -1,7 +1,7 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "Lucifer Music Source",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/18b88af791e36bf3c4259.jpg",
+    "logo": "https://telegra.ph/file/c118c574c4fadfd656a74.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
